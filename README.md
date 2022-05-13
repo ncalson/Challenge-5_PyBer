@@ -5,7 +5,7 @@ Analyze and visualize ride-sharing data using Python, Pandas, and the Matplotlib
 ## Overview
 The goals of this analysis include:
 - Create a summary DataFrame of the ride-sharing data by city type (i.e. urban, suburban, and rural).
-- Use Pandas and Matplotlib to make a multiline graph displaying total weekly fres organized by city type.
+- Use Pandas and Matplotlib to make a multiline graph displaying total weekly fares organized by city type.
 
 ## Results
 ### Fare Summary Table:
@@ -30,5 +30,5 @@ Because urban areas have significantly larger populations, they have a higher de
 My recommendations in addressing any disparaties amongst the three city types are:
 
 1. Offer incentives like covered moving costs or a bonus to encourage drivers to relocate from urban areas to suburban and rural areas. This will increase the supply of drivers, maybe balancing out the disparity of fare pricing between city types.
-2. Offer surge pricing during busy days and time frames in urban areas to help individual drivers earn a higher fare amount while completing a typical number of rides.
+2. Offer surge pricing when the demand for rides is higher (i.e. during busy days and time frames) in urban areas to help individual drivers earn a higher fare amount while completing a typical number of rides.
 3. In urban areas, offer riders a discount to ride to popular pick-up/drop-off points rather than a specific location. This scenario allows drivers to automatically start a new ride as soon as their current ride ends since they will be in an area with an abudance of ride requests.
